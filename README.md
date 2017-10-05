@@ -1,0 +1,2 @@
+# AzureTrainig
+AzureTrainig
